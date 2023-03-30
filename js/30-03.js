@@ -1,5 +1,5 @@
 const str = "Привіт";
-console.log(typeof str)
+console.log(typeof str);
 
 const num = 123;
 console.log(typeof num);
@@ -19,6 +19,5 @@ let result = my + friend;
 alert(result);
 
 let message = prompt("Я навчаюся в GoITeens в групі:");
-console.log(message);
 let group = "FE1y_1 менші";
-console.log(group);
+console.log(message, group);
